@@ -1,2 +1,4 @@
 .env
 node_modules
+CRUD controllers
+jest.config.js
